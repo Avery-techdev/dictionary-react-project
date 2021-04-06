@@ -10,6 +10,9 @@ export default function App() {
           ictionary
   
       </header>
+      <footer> 
+        open source <a href="https://github.com/Avery-techdev/dictionary-react-project">code</a> by Annabell Hauschild
+      </footer> 
     </div>
   );
 }
