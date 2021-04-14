@@ -1,13 +1,11 @@
-form {
-  margin: 30px;
-}
+
 
 .btn {
   background-color: #f15152;
   color: #fff;
   margin: 10px;
   transition: all 300ms ease;
-  width: 8%;
+  width: 70px;
 }
 
 .btn:hover {
@@ -18,5 +16,5 @@ form {
 .form-control {
   display: inline;
   margin: 0;
-  width: 40%;
+  width: 250px;
 }

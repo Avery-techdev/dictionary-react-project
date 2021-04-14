@@ -26,3 +26,9 @@ footer {
   display: inline;
   margin-right: 10px;
 }
+
+.Question {
+  display: inline;
+  padding: 100px 0 0 50px;
+  font-size: 54px;
+}
