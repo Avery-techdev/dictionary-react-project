@@ -1,10 +1,14 @@
 a {
   text-decoration: none;
-  color: #01248c;
+  color: #F15152;
+}
+
+a:hover {
+  color: #f4d8cd;
 }
 
 body {
-  background-color: #F4D8CD;
+  background-color: #1e555c;
   padding: 30px;
 }
 
@@ -15,7 +19,7 @@ footer {
 }
 
 .App-header {
-  color: #1E555C;
+  color: #f4d8cd;
   font-family: 'Architects Daughter', cursive;
   font-size: 48px;
   margin: 30px 30px 30px 50px;
