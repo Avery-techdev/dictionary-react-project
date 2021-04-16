@@ -28,7 +28,7 @@ export default function Dictionary() {
     <div className="Dictionary">
       <section className="row justify-content-md-center">
         <form className="col-md-auto" onSubmit={search}>
-          <input type="search" placeholder="search for any word" autoComplete="on" autoFocus={true} className="form-control shadow-sm" onChange={handleKeywordChange}/>
+          <input type="search" placeholder="search for any word" autoFocus="on" className="form-control shadow-sm" onChange={handleKeywordChange}/>
           <input type="submit" className="btn shadow-sm" value="search" />
         </form>
       </section> 

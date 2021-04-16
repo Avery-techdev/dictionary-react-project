@@ -18,6 +18,11 @@ footer {
   text-align: center;
 }
 
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
 .App-header {
   color: #f4d8cd;
   font-family: 'Architects Daughter', cursive;
