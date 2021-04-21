@@ -15,9 +15,9 @@ export default function App() {
         
         <div className="Question col-8"> What are you searching for?</div>
       </header>
-      <main>
+      <div>
         <Dictionary />
-      </main>
+      </div>
       <footer> 
         open source <a href="https://github.com/Avery-techdev/dictionary-react-project">code</a> by Annabell Hauschild
       </footer> 
